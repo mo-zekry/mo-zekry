@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 class="red">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed Zekry</h1>
 
-<!--
-**mo-zekry/mo-zekry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and building modern machine learning models.
+- 🎓 &nbsp; BSc in Computer Science from 6th of October University.
+- 💭 &nbsp; Diving deeper into the realm of web development, machine learning, and data science.
+- 🍭 &nbsp; Hobbies: reading, camping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> ⚙️ &nbsp;Languages - Tools - Systems - Editors - Skills </h2>
+
+<h3> 👉 Languages</h3>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,java,cs,js,html,css,rust,bash,cmake" />
+  </a>
+</p>
+
+<h3> 👉 Front End & Back End</h3>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,htmx,bootstrap,tailwind,dotnet,sqlserver,redux,nextjs,sass,npm,babel" />
+  </a>
+</p>
+
+
+
+<h3> 👉 Tools & Editors </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,clion,webstorm,pycharm"/>
+  </a>
+</p>
+
+<h3> 👉 General </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,stackoverflow,notion,latex,wsl"/>
+  </a>
+</p>
