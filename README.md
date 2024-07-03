@@ -7,11 +7,34 @@
 <h2 > 👨🏻‍💻 About Me </h2>
 
 <p>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and building modern machine learning models.<br>
-- 🎓 &nbsp; BSc in Computer Science from 6th of October University.<br>
-- 💭 &nbsp; Diving deeper into the realm of web development, machine learning, and data science.<br>
-- 🍭 &nbsp; Hobbies: reading, camping
+  Hello! I'm Mohamed Zekry, a passionate software developer and AI enthusiast. I have a strong foundation in computer science and am always eager to explore new technologies and methodologies to create innovative solutions.
 </p>
+
+<p>
+  <strong>Education:</strong> BSc in Computer Science from 6th of October University
+</p>
+
+<p>
+  <strong>Interests:</strong>
+  <ul>
+    <li>🤔 &nbsp; Developing cutting-edge machine learning models and software solutions</li>
+    <li>💻 &nbsp; Web development, with a focus on both front-end and back-end technologies</li>
+    <li>📊 &nbsp; Data science and its applications in solving real-world problems</li>
+  </ul>
+</p>
+
+<p>
+  <strong>Hobbies:</strong>
+  <ul>
+    <li>📚 &nbsp; Reading - I love diving into both fiction and non-fiction books to expand my knowledge and imagination</li>
+    <li>🏕️ &nbsp; Camping - Exploring nature and enjoying the great outdoors</li>
+  </ul>
+</p>
+
+<p>
+  I am continuously learning and striving to improve my skills. My goal is to contribute to impactful projects and collaborate with like-minded individuals. Let's connect and create something amazing together!
+</p>
+
 
 <h2>⚙️ Languages - Tools - Systems - Editors - Skills</h2>
 
