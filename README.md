@@ -1,5 +1,9 @@
 <h1 class="red">Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed Zekry</h1>
 
+<p align="center">
+<img src="https://github.com/mo-zekry/mo-zekry/assets/86377489/748a4827-aa27-40ef-a00a-2637e5af8c18" height="250" />
+</p>
+
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and building modern machine learning models.
