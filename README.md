@@ -1,8 +1,10 @@
 <h1 style="color: red;">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Mohamed Zekry</h1>
 
 <p align="center">
-<img src="https://github.com/mo-zekry/mo-zekry/assets/86377489/748a4827-aa27-40ef-a00a-2637e5af8c18" height="250" />
+<img src="https://github.com/mo-zekry/mo-zekry/assets/86377489/d79df410-69fd-4db2-a800-62e7a97415d2" height="250" />
+<!-- <img src="https://github.com/mo-zekry/mo-zekry/assets/86377489/748a4827-aa27-40ef-a00a-2637e5af8c18" height="300" /> -->
 </p>
+
 
 <h2 > 👨🏻‍💻 About Me </h2>
 
