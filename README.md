@@ -54,6 +54,12 @@
   </a>
 </p>
 
+<h3> 👉 Data Science & Machine Learning</h3>
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,matplotlib,seaborn," />
+  </a>
+
 <h3>👉 Tools & Editors</h3>
 <p align="center">
   <a href="https://skillicons.dev">
