@@ -9,7 +9,11 @@
 <h2 > 👨🏻‍💻 About Me </h2>
 
 <p>
-  Hello! I'm Mohamed Zekry, a passionate software developer and AI enthusiast. I have a strong foundation in computer science and am always eager to explore new technologies and methodologies to create innovative solutions.
+  Hello! I'm Mohamed Zekry, a Motivated Software Engineer with expertise in Full Stack Development (.NET, React.js) and Artificial Intelligence.
+Proven experience in building scalable web applications, integrating AI models, and developing innovative solutions.
+Strong foundation in computer science principles with hands-on experience in machine learning, data structures,
+and modern development frameworks. Passionate about creating intelligent software solutions that drive
+technological advancement.
 </p>
 
 <p>
